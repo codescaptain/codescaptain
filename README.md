@@ -7,6 +7,7 @@
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js"/>
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js"/>
+    <img alt="PHP" src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=php"/>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
