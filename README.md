@@ -4,6 +4,7 @@
 <p>Welcome to my page! </br> I'm Ahmet, Pull-Stack developer from <img src="https://image.flaticon.com/icons/svg/2060/2060608.svg" width="13"/> <b>Ankara, Turkey</b></p>
 <h3>Things I code with</h3>
 <p>
+    <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js"/>
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js"/>
