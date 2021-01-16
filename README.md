@@ -27,6 +27,6 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
-![GitHub Logo](https://tryhackme-badges.s3.amazonaws.com/codesSiberci.png)
+<script src="https://tryhackme.com/badge/252096"></script>
 
 
