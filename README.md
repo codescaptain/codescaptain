@@ -13,7 +13,7 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js"/>
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> 
-    <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-430098?style=flat-square&logo=graphql"/> 
+    <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-purple?style=flat-square&logo=graphql"/> 
 </p>
 <h3>Where to find me:</h3>
 <p>
