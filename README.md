@@ -7,6 +7,7 @@
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=Linux"/>
     <img alt="PHP" src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php"/>
+    <img alt="PHP" src="https://img.shields.io/badge/-wordpress-blue?style=flat-square&logo=wordpress"/>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql"/>
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react"/>
