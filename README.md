@@ -30,9 +30,12 @@
     <a href="https://www.linkedin.com/in/ahmet-kaptan/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+     <a href="https://www.linkedin.com/in/ahmet-kaptan/" target="_blank">
+        <img alt="LinkedIn" src="https://www.codewars.com/users/codescaptain/badges/micro"/>
+    </a>
 </p>
 
-![badge](./tryhackme/codesSiberci.png)
+![badge](./tryhackme/codesSiberci.png) 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
