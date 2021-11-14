@@ -8,11 +8,10 @@
     <img alt="Linux" src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=Linux"/>
     <img alt="PHP" src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php"/>
     <img alt="PHP" src="https://img.shields.io/badge/-wordpress-blue?style=flat-square&logo=wordpress"/>
+    <img alt="RUBY" src="https://img.shields.io/badge/-ruby-red?style=flat-square&logo=ruby"/>
+    <img alt="RUBY" src="https://img.shields.io/badge/-RAILS-red?style=flat-square&logo=ruby-on-rails"/>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql"/>
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
-    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react"/>
-    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js"/>
-    <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> 
     <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-purple?style=flat-square&logo=graphql"/> 
 </p>
