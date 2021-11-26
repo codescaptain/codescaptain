@@ -14,6 +14,7 @@
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> 
     <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-purple?style=flat-square&logo=graphql"/> 
+    <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"/> 
 </p>
 <h3>Where to find me:</h3>
 <p>
