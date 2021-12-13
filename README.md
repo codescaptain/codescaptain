@@ -2,7 +2,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
 </h1>
 
-<p>Welcome to my page! </br> I'm Ahmet, Pull-Stack developer from <img src="https://image.flaticon.com/icons/svg/2060/2060608.svg" width="13"/> <b>Ankara, Turkey</b></p>
+<p>Welcome to my page! </br> I'm Ahmet, Pull-Stack developer from <b>Ankara, Turkey</b></p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=Linux"/>
