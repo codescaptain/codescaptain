@@ -10,9 +10,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/-wordpress-blue?style=flat-square&logo=wordpress"/>
     <img alt="RUBY" src="https://img.shields.io/badge/-ruby-red?style=flat-square&logo=ruby"/>
     <img alt="RUBY" src="https://img.shields.io/badge/-RAILS-red?style=flat-square&logo=ruby-on-rails"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql"/>
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> 
     <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-purple?style=flat-square&logo=graphql"/> 
     <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"/> 
     <img alt="Remix" src="https://img.shields.io/badge/-Remix-darkblue?style=flat-square&logo=remix"/>
