@@ -1,8 +1,6 @@
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
 </h1>
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ahmet-kaptan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/ahmet-kaptan?trk=profile-badge">Ahmet Kaptan</a></div>
               
 
 <p>Welcome to my page! </br> I'm Ahmet, Pull-Stack developer from <b>Ankara, Turkey</b></p>
