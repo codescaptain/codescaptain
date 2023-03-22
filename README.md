@@ -3,7 +3,7 @@
 </h1>
               
 
-<p>Welcome to my page! </br> I'm Ahmet, Pull-Stack developer from <b>Ankara, Turkey</b></p>
+<p>Welcome to my page! </br> I'm Ahmet, Pull-Stack developer from <b>İstanbul, Turkey</b></p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=Linux"/>
