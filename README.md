@@ -15,6 +15,7 @@
     <img alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-purple?style=flat-square&logo=graphql"/> 
     <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"/> 
     <img alt="Remix" src="https://img.shields.io/badge/-Remix-darkblue?style=flat-square&logo=remix"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwind"/> 
 </p>
 <h3>Where to find me:</h3>
 <p>
