@@ -50,7 +50,9 @@
 </a>
 </p>
 
-![snake gif](https://github.com/codescaptain/codescaptain/blob/output/github-contribution-grid-snake.gif)
+### My Latest Articles
+
+[![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=0)](#)
 
 
 
