@@ -50,9 +50,14 @@
 </a>
 </p>
 
-### My Latest Articles
+### 📝 My Latest Medium Articles - [@codescaptain](https://medium.com/@codescaptain)
 
 [![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=0)](#)
+[![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=1)](#)
+[![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=2)](#)
+[![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=3)](#)
+
+
 
 
 
