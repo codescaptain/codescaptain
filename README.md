@@ -52,7 +52,7 @@
 
 ### 📝 My Latest Medium Articles - [@codescaptain](https://medium.com/@codescaptain)
 
-[![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=0)](#)
+[![My Medium story](https://medium-snippet-rails.fly.dev/api/article.svg?username=@codescaptain&index=0)](#)
 [![My Medium story](https://medium-story.vercel.app/api?username=@codescaptain&index=1)](#)
 
 
