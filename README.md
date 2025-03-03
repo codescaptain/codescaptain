@@ -49,14 +49,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codescaptain&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 📝 My Latest Medium Articles - [@codescaptain](https://medium.com/@codescaptain)
-[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@codescaptain&index=2&source=medium)](#)
-
-### 📝 My Latest Dev.to Articles - [@codescaptain](https://medium.com/@codescaptain)
-[![My Dev.to story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@codescaptain&index=0&source=dev_to)](#)
-
-
-
-
-
